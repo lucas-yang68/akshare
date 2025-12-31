@@ -1,0 +1,75 @@
+股票、期货、外汇、加密货币 常用中英文词汇表（紧凑打印版）
+============================================================
+1-2列同列 | 复制到记事本保存为 .txt | UTF-8编码
+
+1. 基础市场与资产
+股票 Stock/Share          普通股 Common Stock        优先股 Preferred Stock
+期货 Futures              期权 Options               外汇 Forex/FX
+加密货币 Crypto           现货 Spot                 杠杆 Leverage(Lev)
+保证金 Margin
+
+2. 价格与波动
+开盘价 Open               收盘价 Close              最高价 High
+最低价 Low                涨停 Upper Limit          跌停 Lower Limit
+涨跌幅 Pct Chg            振幅 Amplitude            波动率 Volatility(Vol)
+隐含波动率 IV             历史波动率 HV
+
+3. 成交量与流动性
+成交量 Volume(Vol)        成交额 Turnover           换手率 Turnover Rate
+量比 VR                   地量 Ultra-low Vol        天量 Ultra-high Vol
+放量 Volume Surge         缩量 Volume Shrink        量价背离 Vol-Price Divergence
+
+4. 技术指标
+均线 MA                   指数平滑均线 EMA          布林带 BB
+相对强弱指数 RSI          随机指标 KDJ              平均真实波幅 ATR
+动量指标 MOM              成交量加权平均价 VWAP     MACD MACD
+支撑位 S                  阻力位 R                  趋势线 Trendline
+
+5. K线形态
+阳线 Bullish Candle       阴线 Bearish Candle       光头光脚 Marubozu
+锤头线 Hammer             吊颈线 Hanging Man        吞没形态 Engulfing
+乌云盖顶 Dark Cloud Cover 十字星 Doji               跳空缺口 Gap
+
+6. 订单类型
+市价单 MO                 限价单 LO                 止损单 SL
+止盈单 TP                 条件单 Conditional        OCO单 OCO
+冰山单 Iceberg            追踪止损 TS
+
+7. 交易行为与策略
+多头 Long                 空头 Short                做多 Go Long
+做空 Go Short             平仓 Close Position       持仓 Open Position
+隔夜持仓 Overnight        套利 Arbitrage            对冲 Hedge
+逼仓 Cornering            洗盘 Shakeout             诱多/诱空 Fakeout
+
+8. 机构与角色
+庄家 Dealer               散户 Retail               机构 Inst
+做市商 MM                 券商 Broker               交易所 EX
+清算所 Clearing House     托管行 Custodian
+
+9. 监管与合规
+证监会 SEC/CSRC           涨跌停板 Circuit Breaker  T+0/T+1 T+0/T+1
+内幕交易 Insider Trading  操纵市场 Manipulation     KYC KYC
+AML AML
+
+10. 期货专属
+交割 Delivery             实物交割 Physical         现金交割 Cash Settlement
+持仓限额 Position Limit   强平 Forced Liquidation   基差 Basis
+正向市场 Contango         反向市场 Backwardation
+
+11. 外汇专属
+点差 Spread               点值 Pip                  掉期费 Swap
+主要货币对 Major Pair     交叉盘 Cross Pair         报价 Bid/Ask
+
+12. 加密货币专属
+钱包 Wallet               私钥 Private Key          公钥 Public Key
+链上交易 On-chain         Gas费 Gas Fee             挖矿 Mining
+质押 Staking              DeFi DeFi                 流动性池 LP
+永续合约 Perp
+
+13. 情绪与事件
+恐慌指数 Fear&Greed       FOMO FOMO                 FUD FUD
+利好 Bullish News         利空 Bearish News         黑天鹅 Black Swan
+
+快速记忆口诀
+量价齐升→Bullish Vol  缩量阴跌→Bear Trap  放量突破→Breakout  地量见底→Bottom
+============================================================

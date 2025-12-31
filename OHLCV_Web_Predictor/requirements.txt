@@ -1,0 +1,8 @@
+flask
+akshare
+ta
+pandas
+numpy
+scikit-learn
+xgboost
+joblib

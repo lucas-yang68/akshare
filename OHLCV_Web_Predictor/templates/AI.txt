@@ -1,0 +1,86 @@
+AI领域常用中英文词汇表（紧凑打印版）
+============================================================
+1-2列同列 | 复制到记事本保存为 .txt | UTF-8编码 | 含算法/模型/指标/参数/运营
+
+1. 基础概念
+人工智能 AI               机器学习 ML               深度学习 DL
+神经网络 NN               监督学习 Supervised       无监督学习 Unsupervised
+半监督学习 Semi-Supervised 强化学习 RL               生成模型 Generative
+判别模型 Discriminative   迁移学习 Transfer         联邦学习 Federated
+
+2. 算法与模型
+线性回归 Linear Reg       逻辑回归 Logistic Reg     决策树 DT
+随机森林 RF               梯度提升树 GBT            XGBoost XGBoost
+LightGBM LightGBM         CatBoost CatBoost         支持向量机 SVM
+K近邻 KNN                 K均值聚类 K-Means         主成分分析 PCA
+奇异值分解 SVD            卷积神经网络 CNN          循环神经网络 RNN
+长短期记忆 LSTM           门控循环单元 GRU          Transformer Transformer
+注意力机制 Attention      自注意力 Self-Attention   多头注意力 Multi-Head
+BERT BERT                 GPT GPT                   T5 T5
+扩散模型 Diffusion        变分自编码器 VAE          生成对抗网络 GAN
+条件GAN cGAN              循环GAN CycleGAN          风格GAN StyleGAN
+
+3. 训练与优化
+训练集 Train              验证集 Val                测试集 Test
+过拟合 Overfit            欠拟合 Underfit           正则化 Regularization
+L1正则 Lasso              L2正则 Ridge              Dropout Dropout
+早停 Early Stopping       批量归一化 BN             层归一化 LN
+梯度下降 GD               随机梯度下降 SGD          小批量梯度 Mini-Batch
+动量法 Momentum           Adam Adam                 RMSprop RMSprop
+学习率 LR                 学习率调度 LR Scheduler   余弦退火 Cosine Annealing
+梯度裁剪 Gradient Clip    权重衰减 Weight Decay
+
+4. 评估指标（分类）
+准确率 Accuracy           精确率 Precision          召回率 Recall
+F1分数 F1                 宏平均 Macro-Avg          微平均 Micro-Avg
+AUC AUC                   ROC ROC                   混淆矩阵 Confusion Matrix
+假阳性 FP                 假阴性 FN                 真阳性 TP
+真阴性 TN
+
+5. 评估指标（回归）
+均方误差 MSE              均方根误差 RMSE           平均绝对误差 MAE
+决定系数 R²               解释方差 EVS
+
+6. 评估指标（生成/推荐）
+BLEU BLEU                 ROUGE ROUGE               METEOR METEOR
+PSNR PSNR                 SSIM SSIM                 FID FID
+Inception Score IS        NDCG NDCG                 MAP MAP
+点击率 CTR                转化率 CVR
+
+7. 运营与产品指标
+日活跃用户 DAU            月活跃用户 MAU            留存率 Retention
+次日留存 D1               7日留存 D7                30日留存 D30
+用户生命周期 LTV          获客成本 CAC              ARPU ARPU
+ROI ROI                   GMV GMV                   A/B测试 A/B Test
+多臂老虎机 MAB            冷启动 Cold Start        推荐召回 Recall@K
+
+8. 超参数与结构
+隐藏层 Hidden Layer       神经元 Neuron             激活函数 Activation
+ReLU ReLU                 Sigmoid Sigmoid           Tanh Tanh
+Softmax Softmax           嵌入维度 Embedding Dim    序列长度 Seq Len
+批量大小 Batch Size       轮次 Epoch                步数 Step
+早停耐心 Patience         种子 Seed                 设备 Device (CPU/GPU)
+
+9. 框架与工具
+PyTorch PyTorch           TensorFlow TF             JAX JAX
+Keras Keras               Hugging Face HF           ONNX ONNX
+Scikit-learn Sklearn      Pandas Pandas             NumPy NumPy
+Weights & Biases W&B      MLflow MLflow             TensorBoard TB
+
+10. 大模型与部署
+预训练 Pretrain           微调 Finetune             指令微调 Instruct
+提示工程 Prompt Eng       零样本 Zero-Shot          少样本 Few-Shot
+链式推理 Chain-of-Thought CoT CoT                   推理时计算 Compute-in-Memory
+模型量化 Quantization     剪枝 Pruning              蒸馏 Distillation
+推理引擎 Inference Engine 服务化 Serving            API API
+延迟 Latency              吞吐量 Throughput         QPS QPS
+
+11. 安全与伦理
+对抗样本 Adversarial      数据中毒 Poisoning        模型窃取 Model Steal
+隐私泄露 Privacy Leak     差分隐私 DP               公平性 Fairness
+偏见 Bias                 可解释性 XAI              幻觉 Hallucination
+
+快速记忆口诀
+过拟合→Dropout+正则  欠拟合→加深网络  F1高→Precision+Recall平衡
+AUC>0.9→强模型  BLEU↑→翻译准  CTR↑→推荐香  LTV>CAC→赚钱
+============================================================
